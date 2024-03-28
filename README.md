@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fitness Products</h1>
 <h3 align="center">Online Store</h3>
 
-<img align="right" all="coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1364029%2Fscreenshots%2F16093268%2Fmedia%2F68e82a7fb4904614a9066d6b540c14b2.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&docid=ZxkZXuCs4TZ-3M&tbnid=VS8-fxCkM29JmM&vet=12ahUKEwiwt_X2sJaFAxWNUaQEHe4aCdsQM3oECHkQAA..i&w=1600&h=1200&hcb=2&ved=2ahUKEwiwt_X2sJaFAxWNUaQEHe4aCdsQM3oECHkQAA>
+<img align="right" all="coding" width="400" src="![image](https://github.com/abdulmananseo/abdulmananseo/assets/165247849/df1c9779-5f6b-49d7-a88b-bd9501981a3e)
+>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmananseo&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmananseo" /> </p>
 
