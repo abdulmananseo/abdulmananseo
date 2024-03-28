@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fitness Products</h1>
 <h3 align="center">Online Store</h3>
 
-<img align="right" alt="coding" width="400" src=https://dribbble.com/shots/16093268-Desktop-Animation/attachments/7943224?mode=media>
+<img align="right" alt="coding" width="400" src=![image](https://github.com/abdulmananseo/abdulmananseo/assets/165247849/f5b9eab9-826b-4360-ab17-1c9f61025026)
+>
 
 - 🔭 I’m currently working on [Fitness Products](https://www.facebook.com/mfarooqqskr)
 
